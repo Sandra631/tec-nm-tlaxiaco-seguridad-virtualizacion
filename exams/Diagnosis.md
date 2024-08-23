@@ -14,11 +14,11 @@ Pregunta de Opción Múltiple:<br>
 Identifica cuáles de los siguientes elementos son componentes fundamentales de un sistema de red:<br>
 
 - [ ] Switch
-- [X ] Router
+- [✔️] Router
 - [ ] Monitor
-- [X ] Cableado
+- [✔️] Cableado
 - [ ] CPU
-- [ X] Firewall
+- [✔️] Firewall
 
 Pregunta Abierta:<br>
 Explica la función de un router en una red y cómo se diferencia de un switch.<br>
@@ -42,7 +42,7 @@ Pregunta Verdadero/Falso:<br>
 TCP/IP es un protocolo que se utiliza exclusivamente para redes privadas, como las LANs.
 
 - [ ] Verdadero
-- [ X ] Falso
+- [✔️] Falso
 
 Justifique su respuesta.<br>
 ___Respuesta___
@@ -67,7 +67,7 @@ Pregunta de Selección Múltiple:<br>
 ¿Cuál de los siguientes es un estándar de la industria para redes inalámbricas?<br>
 
 - [ ] IEEE 802.3
-- [ X ] IEEE 802.11
+- [✔️] IEEE 802.11
 - [ ] IEEE 802.15
 - [ ] IEEE 802.16
 
@@ -97,7 +97,7 @@ Pregunta de Opción Múltiple:<br>
 
 - [ ] Windows Server
 - [ ] macOS
-- [ X ] Linux
+- [✔️] Linux
 - [ ] Android
 
 ## Sección 5: Diseño de Redes Aplicando Normas y Estándares (10%)
@@ -134,7 +134,7 @@ ___Respuesta___
 Pregunta de Opción Múltiple:<br>
 ¿Cuál de las siguientes medidas es más efectiva para proteger una red de accesos no autorizados?<br>
 
-- [ X ] Cortafuegos
+- [✔️] Cortafuegos
 - [ ] Antivirus
 - [ ] Actualizaciones de software
 - [ ] Contraseñas seguras
@@ -151,6 +151,7 @@ Implementar medidas de seguridad en una red es muy importante para proteger la i
 Pregunta de Caso Práctico:<br>
 Un usuario informa que no puede acceder a Internet desde su computadora. Describe los pasos que seguirías para identificar y resolver el problema.<br>
 ___Respuesta___
+
 verificar de que el router o modem esté encendido y funcionando correctamente
 Reiniciar el Dispositivo
 Comprobar la Conexión de Red
