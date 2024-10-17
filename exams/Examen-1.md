@@ -9,12 +9,12 @@ Nombre:
 * [ ] a) Proteger la información contra el acceso no autorizado.
 * [ ] b) Proteger la información contra la divulgación no autorizada.
 * [ ] c) Proteger la información contra la alteración no autorizada.
-* ☑️ d) Maximizar la rentabilidad de la información.
+  ☑️ d) Maximizar la rentabilidad de la información.
 
 2. ¿Cuál de los siguientes enunciados describe mejor la gestión de la información?
 
 * [ ] a) Es la gestión de sistemas tecnológicos para la administración de la información.
-* ☑️ b) Es el proceso de gestión del ciclo de vida completo de la información, desde su creación hasta su eliminación.
+  ☑️ b) Es el proceso de gestión del ciclo de vida completo de la información, desde su creación hasta su eliminación.
 * [ ] c) Es la disciplina encargada del diseño, implementación y mantenimiento de sistemas de información.
 * [ ] d) Es el conjunto de reglas y directrices que rigen la protección de la información.
 
@@ -22,7 +22,7 @@ Nombre:
 
 * [ ] a) Planeación, organización, dirección, control y evaluación.
 * [ ] b) Hardware, software, datos, procedimientos y personas.
-* ☑️  c) Recopilación, almacenamiento, distribución, archivo y destrucción.
+  ☑️  c) Recopilación, almacenamiento, distribución, archivo y destrucción.
 * [ ] d) Confidencialidad, integridad, disponibilidad, autenticación y autorización.
 
 4. ¿Cuál de los siguientes NO es un beneficio de la gestión de la información?
@@ -30,7 +30,7 @@ Nombre:
 * [ ] a) Mejora la toma de decisiones.
 * [ ] b) Aumenta la eficiencia.
 * [ ] c) Reduce los riesgos.
-* [☑️] d) Aumenta la complejidad de los procesos.
+* ☑️ d) Aumenta la complejidad de los procesos.
 
 5. ¿Cuál de las siguientes opciones describe mejor la gestión de sistemas de información (MIS)?
 
