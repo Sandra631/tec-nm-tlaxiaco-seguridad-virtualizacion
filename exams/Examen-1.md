@@ -36,7 +36,7 @@ Nombre:
 
 * [ ] a) Es el proceso de gestión del ciclo de vida completo de la información.
 * [ ] b) Es la gestión de los riesgos y el cumplimiento normativo de la información.
-* [ ] c) Es la disciplina encargada del diseño, la implementación, el monitoreo y el mantenimiento de sistemas tecnológicos de información.
+* ☑️ c) Es la disciplina encargada del diseño, la implementación, el monitoreo y el mantenimiento de sistemas tecnológicos de información.
 * [ ] d) Es el conjunto de reglas y directrices que rigen la protección de la información.
 
 6. ¿Cuáles son los cinco componentes principales de un sistema de información?
@@ -44,32 +44,32 @@ Nombre:
 * [ ] a) Recopilación, almacenamiento, procesamiento, distribución y seguridad.
 * [ ] b) Confidencialidad, integridad, disponibilidad, autenticación y autorización.
 * [ ] c) Planeación, organización, dirección, control y evaluación.
-* [ ] d) Hardware, software, datos, procedimientos y personas.
+*  ☑️ d) Hardware, software, datos, procedimientos y personas.
 
 7. ¿Cuál de los siguientes NO es un desafío en la gestión de la información?
 
 * [ ] a) Volumen de datos.
 * [ ] b) Calidad de los datos.
-* [ ] c) Falta de herramientas de gestión de información.
+* ☑️ c) Falta de herramientas de gestión de información.
 * [ ] d) Seguridad de los datos.
 
 8. ¿Qué significa GRC?
 
 * [ ] a) Gestión de Recursos de la Compañía.
-* [ ] b) Gobernanza, Riesgo y Cumplimiento.
+* ☑️ b) Gobernanza, Riesgo y Cumplimiento.
 * [ ] c) Gestión de Recursos y Cumplimiento.
 * [ ] d) Gobernanza, Reglas y Control.
 
 9. ¿Cuál de los siguientes enunciados describe mejor la gobernanza corporativa en el contexto de GRC?
 
 * [ ] a) Es la identificación y mitigación de amenazas a la organización.
-* [ ] b) Define los principios y acuerdos bajo los cuales opera la organización para lograr sus objetivos estratégicos.
+* ☑️ b) Define los principios y acuerdos bajo los cuales opera la organización para lograr sus objetivos estratégicos.
 * [ ] c) Garantiza que la organización cumpla con las normativas y opere éticamente.
 * [ ] d) Es la gestión de los sistemas de información para la seguridad de la información.
 
 10. ¿Cuál de los siguientes NO es un tipo de riesgo empresarial?
 
-* [ ] a) Riesgo de rendimiento u operativo.
+* ☑️ a) Riesgo de rendimiento u operativo.
 * [ ] b) Riesgo de cumplimiento.
 * [ ] c) Riesgo tecnológico.
 * [ ] d) Riesgo de reputación.
@@ -77,7 +77,7 @@ Nombre:
 11. ¿Cuál de las siguientes opciones describe mejor la función de un analista GRC?
 
 * [ ] a) Supervisar la seguridad de la información y la protección de datos en toda la organización.
-* [ ] b) Implementar y mantener los programas de gobernanza, riesgo y cumplimiento de una organización.
+* ☑️ b) Implementar y mantener los programas de gobernanza, riesgo y cumplimiento de una organización.
 * [ ] c) Identificar y mitigar las amenazas de seguridad cibernética en toda la organización.
 * [ ] d) Garantizar que la organización cumpla con las leyes y regulaciones aplicables.
 
@@ -86,26 +86,26 @@ Nombre:
 * [ ] a) Software de gestión de riesgos.
 * [ ] b) Software de gestión de cumplimiento.
 * [ ] c) Software de gestión de auditoría.
-* [ ] d) Software de gestión de proyectos.
+* ☑️  d) Software de gestión de proyectos.
 
 13. ¿Cuál de los siguientes enunciados NO es un principio de seguridad de la información?
 
 * [ ] a) Confidencialidad.
 * [ ] b) Integridad.
 * [ ] c) Disponibilidad.
-* [ ] d) Rentabilidad.
+* ☑️ d) Rentabilidad.
 
 14. ¿Qué es una política de seguridad de la información?
 
 * [ ] a) Un conjunto de herramientas y técnicas para proteger la información.
-* [ ] b) Un conjunto de reglas y directrices que rigen la protección de la información.
+* ☑️ b) Un conjunto de reglas y directrices que rigen la protección de la información.
 * [ ] c) Un proceso de evaluación de la seguridad que simula un ataque real.
 * [ ] d) Un software de seguridad que detecta, bloquea y elimina malware.
 
 15. ¿Cuál es la diferencia entre una amenaza y una vulnerabilidad?
 
 * [ ] a) Una amenaza es una debilidad en un sistema, mientras que una vulnerabilidad es un evento que puede causar daño.
-* [ ] b) Una amenaza es un evento que puede causar daño, mientras que una vulnerabilidad es una debilidad en un sistema.
+* ☑️ b) Una amenaza es un evento que puede causar daño, mientras que una vulnerabilidad es una debilidad en un sistema.
 * [ ] c) Una amenaza es un tipo de malware, mientras que una vulnerabilidad es un ataque a un sistema.
 * [ ] d) Una amenaza es un ataque a un sistema, mientras que una vulnerabilidad es un tipo de malware.
 
@@ -114,19 +114,19 @@ Nombre:
 * [ ] a) Spyware.
 * [ ] b) Ransomware.
 * [ ] c) Virus.
-* [ ] d) Firewall.
+* ☑️ d) Firewall.
 
 17. ¿Cuál de los siguientes NO es un síntoma común de una infección por malware?
 
 * [ ] a) Aumento del uso de la CPU.
 * [ ] b) Bloqueos frecuentes del equipo.
-* [ ] c) Aumento en la velocidad de navegación.
+* ☑️ c) Aumento en la velocidad de navegación.
 * [ ] d) Presencia de archivos o iconos no identificados.
 
 18. ¿Cuál es la diferencia entre una fuente de información primaria y una secundaria?
 
 * [ ] a) Una fuente primaria es interna a la organización, mientras que una secundaria es externa.
-* [ ] b) Una fuente primaria es recopilada directamente por la organización, mientras que una secundaria es recopilada por otra organización.
+*  ☑️ b) Una fuente primaria es recopilada directamente por la organización, mientras que una secundaria es recopilada por otra organización.
 * [ ] c) Una fuente primaria es cuantitativa, mientras que una secundaria es cualitativa.
 * [ ] d) Una fuente primaria es estructurada, mientras que una secundaria es no estructurada.
 
