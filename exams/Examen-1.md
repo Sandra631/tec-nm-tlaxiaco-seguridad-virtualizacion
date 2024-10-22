@@ -1,6 +1,6 @@
 # Examen 1 - Seguridad de la Información y Gestión de Sistemas de Información
 
-Nombre:
+Nombre: Sandra Yolotzin Reyes García
 
 **Instrucciones**: Selecciona la respuesta correcta para cada una de las siguientes preguntas.
 
